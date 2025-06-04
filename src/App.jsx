@@ -6,7 +6,9 @@ function App() {
    <h1>
     Lorem ipsum dolor sit.
    <h2> hello world</h2>
-   </h1>
+   git pull origin main
+</h1>
+
    </>
   )
 }
