@@ -8,7 +8,6 @@ function App() {
    <h2> hello world</h2>
    </h1>
 <h4>hello ...</h4>
-<img src={img1} alt="" />
    </>
   )
 }
