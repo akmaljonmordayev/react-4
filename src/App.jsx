@@ -1,5 +1,5 @@
 import './App.css'
-import img1 from '.assets/premium_photo-1664299631876-f143dc691c4d.jpg'
+import img1 from './assets/premium_photo-1664299631876-f143dc691c4d.jpg'
 function App() {
   return (
    <>
